@@ -1,0 +1,28 @@
+.star-rating {
+    color: #ff7f00;
+    margin-left: 0!important;
+}
+.dvizh-change-count {
+    float: left;
+}
+.dvizh-change-count > * {
+    border: 1px solid #e5e5e5;
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 42px;
+    overflow: hidden;
+    float: left;
+    font-size: 24px;
+}
+.dvizh-change-count > input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.dvizh-change-count input {
+    width: 45px;
+}
+.dektrium button, .dektrium textarea {
+    max-width: 480px!important;
+}

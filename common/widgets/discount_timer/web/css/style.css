@@ -1,0 +1,33 @@
+[data-role="discount-widget-timer"] > div {
+    display: inline-block;
+    margin: 0 10px;
+    border: 2px solid #666;
+    border-radius: 50% 50%;
+    width: 55px;
+    padding: 6px;
+    color: #666;
+}
+[data-role="discount-widget-timer"] .counter {
+    margin: auto;
+    text-align: center;
+    font-size: 17px;
+}
+[data-role="discount-widget-timer"] .podpis {
+    color: #666;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 11px;
+}
+[data-role="discount-widget-timer"] .header {
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+}
+.banner-img > p {
+    text-align: right;
+}
+.banner-info {
+    background-color: rgba(246,246,246,0.7);
+    padding: 5px;
+}
